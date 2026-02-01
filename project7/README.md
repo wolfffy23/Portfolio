@@ -72,11 +72,16 @@ Requirements
 To run this notebook, ensure the following Python libraries are installed:
 
 bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+
 How to Run
+
 Place Mall_Customers.csv in the same directory as the notebook.
 
 Open customer_segmentation_kmeans.ipynb in Jupyter Notebook or Google Colab.
+
 
 Run all cells sequentially.
 
