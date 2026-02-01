@@ -95,9 +95,11 @@ Identification of distinct customer segments based on spending behavior, income,
 Insights that can be used for targeted marketing, personalized offers, and inventory planning.
 
 Author
+
 This project was developed as part of a data science portfolio to demonstrate unsupervised learning and customer segmentation techniques.
 
 License
+
 This project is for educational purposes. The dataset is publicly available and often used for learning clustering algorithms.
 
 
